@@ -12,8 +12,8 @@
     "redux-thunk": "^2.3.0",
     "styled-components": "^5.3.0",
     "web-vitals": "^1.0.1",
-    "web3": "^1.5.1",
-    "web3-eth-contract": "^1.5.2"
+    "web3": "^4.0.1",
+    "web3-eth-contract": "^4.0.1"
   },
   "author": "Ali Solanki, Daniel Eugene Botha",
   "license": "MIT",
